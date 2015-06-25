@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "This package is a wrapper of Polyline (https://github.com/mapbox/polyline) project to expose functions to work with polyline on Meteor server side.",
+  summary: "This is a wrapper of Polyline library for Google Maps",
   version: "1.0.0",
   name: "jesty:polyline",
   git: "https://github.com/jesty/polyline-meteor.git",
